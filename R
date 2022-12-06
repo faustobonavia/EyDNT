@@ -20,11 +20,11 @@ library(ggplot2)
 library(ggcharts)
 library(dplyr)
 
-appname <- "mateafer"
-API_key = "nMEiYvHDiBE7yFFF7OEDyQkL1" 
-API_secret = "KM2Qxefyks43Szt2Dxqq2x8lkMScRgyj1pNfDspHysw3Jcc8DS"
-Access_token = "1306053691-JHShOXQRX62QQf594BG0EUeN93wKONtZtaxmbGG"
-Access_secret = "V1F3AKbCjLzchJrZc79GiE4yeDeBZxN2AZXAlIgnx07bf"
+appname <- "insertar sus credenciales"
+API_key = "insertar sus credenciales" 
+API_secret = "insertar sus credenciales"
+Access_token = "insertar sus credenciales"
+Access_secret = "insertar sus credenciales"
 
 setup_twitter_oauth(API_key,API_secret,Access_token,Access_secret)
 auth_as('create_token')
